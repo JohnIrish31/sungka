@@ -1,0 +1,133 @@
+{
+  "note": "x/y/r are PERCENT of the board image width/height (r is % of width). index matches reference/rules.js. ulo = big store pit.",
+  "pits": [
+    {
+      "index": 0,
+      "owner": 0,
+      "ulo": false,
+      "x": 72.5,
+      "y": 80.0,
+      "r": 10.0
+    },
+    {
+      "index": 1,
+      "owner": 0,
+      "ulo": false,
+      "x": 72.5,
+      "y": 70.0,
+      "r": 10.0
+    },
+    {
+      "index": 2,
+      "owner": 0,
+      "ulo": false,
+      "x": 72.5,
+      "y": 60.0,
+      "r": 10.0
+    },
+    {
+      "index": 3,
+      "owner": 0,
+      "ulo": false,
+      "x": 72.5,
+      "y": 50.0,
+      "r": 10.0
+    },
+    {
+      "index": 4,
+      "owner": 0,
+      "ulo": false,
+      "x": 72.5,
+      "y": 40.0,
+      "r": 10.0
+    },
+    {
+      "index": 5,
+      "owner": 0,
+      "ulo": false,
+      "x": 72.5,
+      "y": 30.0,
+      "r": 10.0
+    },
+    {
+      "index": 6,
+      "owner": 0,
+      "ulo": false,
+      "x": 72.5,
+      "y": 20.0,
+      "r": 10.0
+    },
+    {
+      "index": 7,
+      "owner": 0,
+      "ulo": true,
+      "x": 50.0,
+      "y": 8.2,
+      "r": 14.5
+    },
+    {
+      "index": 8,
+      "owner": 1,
+      "ulo": false,
+      "x": 27.5,
+      "y": 20.0,
+      "r": 10.0
+    },
+    {
+      "index": 9,
+      "owner": 1,
+      "ulo": false,
+      "x": 27.5,
+      "y": 30.0,
+      "r": 10.0
+    },
+    {
+      "index": 10,
+      "owner": 1,
+      "ulo": false,
+      "x": 27.5,
+      "y": 40.0,
+      "r": 10.0
+    },
+    {
+      "index": 11,
+      "owner": 1,
+      "ulo": false,
+      "x": 27.5,
+      "y": 50.0,
+      "r": 10.0
+    },
+    {
+      "index": 12,
+      "owner": 1,
+      "ulo": false,
+      "x": 27.5,
+      "y": 60.0,
+      "r": 10.0
+    },
+    {
+      "index": 13,
+      "owner": 1,
+      "ulo": false,
+      "x": 27.5,
+      "y": 70.0,
+      "r": 10.0
+    },
+    {
+      "index": 14,
+      "owner": 1,
+      "ulo": false,
+      "x": 27.5,
+      "y": 80.0,
+      "r": 10.0
+    },
+    {
+      "index": 15,
+      "owner": 1,
+      "ulo": true,
+      "x": 50.0,
+      "y": 91.8,
+      "r": 14.5
+    }
+  ]
+}

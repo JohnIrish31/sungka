@@ -1,0 +1,47 @@
+{
+  "board": {
+    "board-landscape": "board/board-landscape.svg",
+    "board-portrait": "board/board-portrait.svg"
+  },
+  "shells": {
+    "sigay-puti": "shells/sigay-puti.svg",
+    "sigay-kayumanggi": "shells/sigay-kayumanggi.svg",
+    "sigay-rosas": "shells/sigay-rosas.svg",
+    "sigay-ginto": "shells/sigay-ginto.svg"
+  },
+  "icons": {
+    "kamay": "icons/kamay.svg",
+    "extra-turn": "icons/extra-turn.svg",
+    "pass": "icons/pass.svg",
+    "ulo": "icons/ulo.svg",
+    "speed": "icons/speed.svg",
+    "sound-on": "icons/sound-on.svg",
+    "sound-off": "icons/sound-off.svg",
+    "rules": "icons/rules.svg",
+    "trophy": "icons/trophy.svg",
+    "robot": "icons/robot.svg",
+    "home": "icons/home.svg",
+    "restart": "icons/restart.svg",
+    "players": "icons/players.svg",
+    "check": "icons/check.svg",
+    "close": "icons/close.svg"
+  },
+  "overlays": {
+    "pit-glow": "overlays/pit-glow.svg",
+    "pit-last": "overlays/pit-last.svg",
+    "capture-burst": "overlays/capture-burst.svg",
+    "count-badge": "overlays/count-badge.svg"
+  },
+  "players": {
+    "token-0": "players/token-0.svg",
+    "token-1": "players/token-1.svg"
+  },
+  "decor": {
+    "banderitas-tile": "decor/banderitas-tile.svg",
+    "banig": "decor/banig.svg"
+  },
+  "scenes": {
+    "logo": "scenes/logo.svg",
+    "hero": "scenes/hero.svg"
+  }
+}
